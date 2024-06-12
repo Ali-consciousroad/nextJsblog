@@ -3,11 +3,11 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 Simple blog application using NextJs fetching external data from the file system following nextjs.org tutorial.
 
-How to run the development server : 
+How to run the development server: 
 
-cd nextjs-blog
+From the main directory run:
 npm run dev
 
-Deployment tutorial : https://nextjs.org/learn/basics/deploying-nextjs-app
+Deployment tutorial: https://nextjs.org/learn/basics/deploying-nextjs-app
 
-Application can be tested here : https://next-jsblog-five.vercel.app/
+The Application deployed on Vercel can be tested here : https://next-jsblog-five.vercel.app/
